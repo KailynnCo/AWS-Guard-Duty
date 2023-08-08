@@ -17,6 +17,7 @@ Time spent:
 
 Time spent:
 
-> Objective: Set up GuardDuty to automatically send notifications via email of GuardDuty findings depending on their severity
+> Objective:
+* Set up GuardDuty to automatically send notifications via email of GuardDuty findings depending on their severity
 
 
