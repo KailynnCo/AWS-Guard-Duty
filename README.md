@@ -1,11 +1,4 @@
 # AWS-Cloud-Security
-AWS
-
-
-
-# Tile
-
-Time spent:
 
 > Objective: 
 * GuardDuty: Cloud Watch
