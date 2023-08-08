@@ -10,7 +10,7 @@
 
 Time spent:
 
-> Objective:
+> Goal:
 * Set up GuardDuty to automatically send notifications via email of GuardDuty findings depending on their severity
 
 
