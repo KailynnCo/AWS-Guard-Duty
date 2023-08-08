@@ -1,19 +1,14 @@
 # AWS-Cloud-Security
-CodePath Assignment 
+AWS
 
 
 
-# Project 8 - Pentesting Live Targets
+# Tile
 
-Time spent: 2 hours spent in total
+Time spent:
 
-> Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
+> Objective: 
+* GuardDuty: Cloud Watch
+* AWS CloudTrail: Creating Trail
+* AWS CloudTrail: Athena and CloudWatch Alerts
 
-The six possible exploits are:
-
-* Username Enumeration
-* Insecure Direct Object Reference (IDOR)
-* SQL Injection (SQLi)
-* Cross-Site Scripting (XSS)
-* Cross-Site Request Forgery (CSRF)
-* Session Hijacking/Fixation
