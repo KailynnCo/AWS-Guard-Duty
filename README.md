@@ -12,7 +12,7 @@ INE Labs
 Time spent:
 
 > Goal:
-* Set up GuardDuty to automatically send notifications via email of GuardDuty findings depending on their severity
+* Set up GuardDuty to automatically send notifications via email of GuardDuty findings depending on their severity.
 
 
 # AWS CloudTrail: Creating Trail
@@ -20,7 +20,7 @@ Time spent:
 Time spent:
 
 > Goal:
-* Create trails for various types of events using AWS CloudTrail and deliver log files to an S3 Bucket\
+* Create trails for various types of events using AWS CloudTrail and deliver log files to an S3 Bucket.
 
 
 # AWS CloudTrail: Athena and CloudWatch Alerts
