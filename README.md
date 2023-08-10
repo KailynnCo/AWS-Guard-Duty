@@ -8,7 +8,7 @@
 
 # 1. GuardDuty: Cloud Watch
 
-Successfully configured a CloudWatch Event rule that will send a message to the SNS topic depending on the results of GuardDuty findings depending on the severity.
+Successfully configured a CloudWatch Event rule that will send a message to the SNS topic depending on the severity results of GuardDuty findings.
 
 *The below code will alert for any Medium to High finding.
 >Code: {"source":["aws.guardduty"],"detail-type":["GuardDutyFinding"],"detail":{"severity":[4,4,4.1,4.2,4.3,4.4,4.5,4.6,4.7,4.8,4.9,5,5,5.1,5.2,5.3,5.4,5.5,5.6,5.7
