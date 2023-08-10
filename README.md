@@ -38,7 +38,11 @@ To format the email, for Template, paste the following code:
 
 <img src="19.png">
 <img src="21.png">
+
+Findings on GuardDuty
 <img src="24.png">
+
+Email Notification
 <img src="25.png">
 
 # AWS CloudTrail: Creating Trail
