@@ -1,5 +1,4 @@
 # AWS-Cloud-Security
-INE Labs
 
 > Objective: 
 >* GuardDuty: Cloud Watch
