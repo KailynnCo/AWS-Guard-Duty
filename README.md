@@ -1,12 +1,12 @@
 # AWS-Cloud-Security
 
 > Objective: 
->* GuardDuty: Cloud Watch
->* AWS CloudTrail: Creating Trail
->* AWS CloudTrail: Athena and CloudWatch Alerts
+>* 1. GuardDuty: Cloud Watch
+>* 2. AWS CloudTrail: Creating Trail
+>* 3. AWS CloudTrail: Athena and CloudWatch Alerts
 
 
-# GuardDuty: Cloud Watch
+# 1. GuardDuty: Cloud Watch
 
 Successfully created an SNS topic and subscription, and configured a CloudWatch Events rule
 that will send a message to the SNS topic depending on the results of GuardDuty findings depending on the severity.
@@ -43,7 +43,7 @@ Findings on GuardDuty
 Email Notification
 <img src="25.png">
 
-# AWS CloudTrail: Creating Trail
+# 2. AWS CloudTrail: Creating Trail
 
 Time spent:
 
@@ -51,7 +51,7 @@ Time spent:
 > Create trails for various types of events using AWS CloudTrail and deliver log files to an S3 Bucket.
 
 
-# AWS CloudTrail: Athena and CloudWatch Alerts
+# 3. AWS CloudTrail: Athena and CloudWatch Alerts
 
 Time spent:
 
