@@ -17,7 +17,7 @@ that will send a message to the SNS topic depending on the results of GuardDuty 
 
 <img src="16.png">
 
-*To format the email, for Template, paste the following code:
+* To format the email, for Template, paste the following code:
 
 > Input Path:
 {
@@ -37,11 +37,11 @@ that will send a message to the SNS topic depending on the results of GuardDuty 
 <img src="19.png">
 <img src="21.png">
 
-*Findings on GuardDuty
+* Findings on GuardDuty
 
 <img src="24.png">
 
-*Email Notification
+* Email Notification
 
 <img src="25.png">
 
