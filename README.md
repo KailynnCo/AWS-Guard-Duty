@@ -47,18 +47,15 @@ Successfully configured a CloudWatch Event rule that will send a message to the 
 
 <img src="25.png">
 
-# 2. AWS CloudTrail: Creating Trail
+# 2. AWS CloudTrail: Creating Trail (In Progres)
 
-Time spent:
 
-> Goal:
+
 > Create trails for various types of events using AWS CloudTrail and deliver log files to an S3 Bucket.
 
 
-# 3. AWS CloudTrail: Athena and CloudWatch Alerts
+# 3. AWS CloudTrail: Athena and CloudWatch Alerts (In Progres)
 
-Time spent:
 
-> Goal:
 > Process the data with Amazon Athena and configure AWS CloudWatch alerts for CloudTrail events.
 
