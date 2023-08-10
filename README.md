@@ -12,6 +12,11 @@ Successfully created an SNS topic and subscription, and configured a CloudWatch 
 that will send a message to the SNS topic depending on the results of GuardDuty findings depending on the severity.
 
 <img src="7.png">
+<img src="16.png">
+<img src="19.png">
+<img src="21.png">
+<img src="24.png">
+<img src="25.png">
 
 # AWS CloudTrail: Creating Trail
 
