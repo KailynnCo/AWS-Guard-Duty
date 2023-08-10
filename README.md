@@ -9,8 +9,9 @@ INE Labs
 
 # GuardDuty: Cloud Watch
 
-Goal:
-Set up GuardDuty to automatically send notifications via email of GuardDuty findings depending on their severity.
+Successfully created an SNS topic and subscription, and configured a CloudWatch Events rule
+that will send a message to the SNS topic depending on the results of GuardDuty.
+
 
 
 # AWS CloudTrail: Creating Trail
