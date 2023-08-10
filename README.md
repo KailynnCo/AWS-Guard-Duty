@@ -10,7 +10,7 @@ INE Labs
 # GuardDuty: Cloud Watch
 
 Successfully created an SNS topic and subscription, and configured a CloudWatch Events rule
-that will send a message to the SNS topic depending on the results of GuardDuty.
+that will send a message to the SNS topic depending on the results of GuardDuty findings depending on the severity.
 
 
 
