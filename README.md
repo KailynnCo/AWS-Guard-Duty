@@ -19,6 +19,8 @@ The below code will alert for any Medium to High finding.
 
 <img src="16.png">
 
+To format the email, for Template, paste the following code:
+
 > Input Path:
 {
 "severity": "$.detail.severity",
