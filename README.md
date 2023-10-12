@@ -4,6 +4,7 @@
 >* 1. GuardDuty: Cloud Watch
 >* 2. AWS CloudTrail: Creating Trail
 >* 3. AWS CloudTrail: Athena and CloudWatch Alerts
+>* 4. Amazon Machie
 
 
 > Backround/definitions: GuardDuty detects malicious activities and sends events to Amazon CloudWatch Events for every change in a finding. Through continuous alerts about malicious activities, users can take the necessary precautions to mitigate the risk of cyber attacks.
