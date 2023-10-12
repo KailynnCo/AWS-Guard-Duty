@@ -40,7 +40,7 @@ Successfully configured a CloudWatch Event rule that will send a message to the 
 
 * Succesfully made a rule
   
-<img src="21.png">
+<img src="pics/21.png">
 
 * Findings on GuardDuty
 
