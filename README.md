@@ -36,7 +36,7 @@ Successfully configured a CloudWatch Event rule that will send a message to the 
 "<Finding_description>. "
 "For more details open the GuardDuty console at https://console.aws.amazon.com/guardduty/home?region=<region>#/findings?search=id%3D<Finding_ID>"
 
-<img src="19.png">
+<img src="pics/19.png">
 
 * Succesfully made a rule
   
