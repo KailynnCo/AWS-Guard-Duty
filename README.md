@@ -44,7 +44,7 @@ Successfully configured a CloudWatch Event rule that will send a message to the 
 
 * Findings on GuardDuty
 
-<img src="24.png">
+<img src="pics/24.png">
 
 * Email Notification
 
