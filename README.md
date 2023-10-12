@@ -48,7 +48,7 @@ Successfully configured a CloudWatch Event rule that will send a message to the 
 
 * Email Notification
 
-<img src="25.png">
+<img src="pics/25.png">
 
 # 2. AWS CloudTrail: Creating Trail (In Progres)
 
