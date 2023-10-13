@@ -136,3 +136,9 @@ ng_ID>"
 
 > Process the data with Amazon Athena and configure AWS CloudWatch alerts for CloudTrail events.
 
+
+
+# 4. Amazon Macie (In Progress)
+
+
+> Setting up a job in Amazon Macie to discover sensitive information within a S3 bucket.
