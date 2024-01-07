@@ -124,6 +124,8 @@ ng_ID>"
 
 <img src="pics/25.png">
 
+
+
 # 2. AWS CloudTrail: Creating Trail (In Progres)
 
 Created trails for various types of events using AWS CloudTrail and deliver log files to an S3 Bucket.
@@ -139,7 +141,7 @@ Created trails for various types of events using AWS CloudTrail and deliver log 
 
 <img src="pics/CT 2.png">
 
-<img src="pics/CT 3.png">
+<img src="pics/CT 3.png"> 
 
 * Created a Data Event Trail and set data event type as “DynamoDB”. You can determine the request that was made to
 DynamoDB, the IP address from which the request was made, who made the request, when it
