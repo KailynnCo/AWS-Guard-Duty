@@ -141,6 +141,8 @@ Created trails for various types of events using AWS CloudTrail and deliver log 
 
 <img src="pics/CT 3.png">
 
+* Created a Data Event Trail. P.S - Insights events will only work with management events.
+
 # 3. AWS CloudTrail: Athena and CloudWatch Alerts
 
 
