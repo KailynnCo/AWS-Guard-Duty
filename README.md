@@ -126,7 +126,7 @@ ng_ID>"
 
 
 
-# 2. AWS CloudTrail: Creating Trail (In Progres)
+# 2. AWS CloudTrail: Creating Trail 
 
 Created trails for various types of events using AWS CloudTrail and deliver log files to an S3 Bucket.
 
