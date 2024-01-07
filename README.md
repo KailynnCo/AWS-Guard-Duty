@@ -127,18 +127,17 @@ ng_ID>"
 # 2. AWS CloudTrail: Creating Trail (In Progres)
 
 
-
+> Backround/definitions: GuardDuty detects malicious activities and sends events to Amazon CloudWatch Events for every change in a finding. Through continuous alerts about malicious activities, users can take the necessary precautions to mitigate the risk of cyber attacks.
 > Create trails for various types of events using AWS CloudTrail and deliver log files to an S3 Bucket.
 
 
-# 3. AWS CloudTrail: Athena and CloudWatch Alerts (In Progres)
+# 3. AWS CloudTrail: Athena and CloudWatch Alerts
 
 
 > Process the data with Amazon Athena and configure AWS CloudWatch alerts for CloudTrail events.
 
 
 
-# 4. Amazon Macie (In Progress)
-
+# 4. Amazon Macie 
 
 > Setting up a job in Amazon Macie to discover sensitive information within a S3 bucket.
