@@ -133,6 +133,10 @@ Created trails for various types of events using AWS CloudTrail and deliver log 
 >* Data events - Data events provide information about the resource operations performed on or in a resource.
 >* CloudTrail Insights events - CloudTrail Insights events capture unusual API call rate or error rate activity in your AWS account by analyzing CloudTrail management activity. For example, associated API, error code, incident time, and statistics, that help you understand and act on unusual activity
 
+* Created a Management Event & an Insight Event. P.S - Insights events will only work with management events.
+  
+<img src="pics/CT 1.png">
+  
 
 # 3. AWS CloudTrail: Athena and CloudWatch Alerts
 
