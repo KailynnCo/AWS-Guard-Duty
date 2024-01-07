@@ -127,7 +127,11 @@ ng_ID>"
 # 2. AWS CloudTrail: Creating Trail (In Progres)
 
 
-> Backround/definitions: GuardDuty detects malicious activities and sends events to Amazon CloudWatch Events for every change in a finding. Through continuous alerts about malicious activities, users can take the necessary precautions to mitigate the risk of cyber attacks.
+> Backround/definitions: CloudTrail tracks/records activity in an AWS Account. There are three types of events that can be logged in CloudTrail: management events, data events, and CloudTrail Insights events. This can help aide risk auditing, governance and compliance within AWS accounts.
+> There are three types of events that can be logged in CloudTrail:
+> Management events - 
+> Data events
+> CloudTrail Insights events
 > Create trails for various types of events using AWS CloudTrail and deliver log files to an S3 Bucket.
 
 
