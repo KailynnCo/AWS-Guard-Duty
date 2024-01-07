@@ -12,7 +12,9 @@
 
 Successfully configured a CloudWatch Event rule that will send a message to the SNS topic depending on the severity results of GuardDuty findings.
 
-> Backround/definitions: GuardDuty detects malicious activities and sends events to Amazon CloudWatch Events for every change in a finding. CloudWatch provides monitoring and alerting for your AWS resources and applications (server, network, or database). Through continuous alerts about malicious activities, users can take the necessary precautions to mitigate the risk of cyber attacks.
+> Backround/definitions: GuardDuty detects malicious activities and sends events to Amazon CloudWatch Events for every change in a finding. Through continuous alerts about malicious activities, users can take the necessary precautions to mitigate the risk of cyber attacks.
+>* GuardDuty informs you of the status of your AWS environment by producing security findings that you can view in the GuardDuty console. Identifies threats actively trying to attack, think of it as a proactive approach since your hunting for potential threats. That may not be monitored so you try to investigate them and you can come accross hidden/new/sophistacked attacks.
+>* CloudWatch provides monitoring and alerting for your AWS resources and applications (server, network, or database). Through continuous alerts about malicious activities, users can take the necessary precautions to mitigate the risk of cyber attacks. Think of it as keeping an eye out on the systems and identifying/fixing items as they rise
 
 * The below json code will alert for any Medium to High finding.
 ```Json
