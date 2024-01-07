@@ -149,6 +149,12 @@ was made, and additional details.
 
 <img src="pics/CT 5.png">
 
+* Exploring Logs
+
+<img src="pics/CT 6.png">
+
+
+
 # 3. AWS CloudTrail: Athena and CloudWatch Alerts
 
 
