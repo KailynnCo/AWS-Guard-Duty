@@ -126,12 +126,12 @@ ng_ID>"
 
 # 2. AWS CloudTrail: Creating Trail (In Progres)
 
+Created trails for various types of events using AWS CloudTrail and deliver log files to an S3 Bucket.
 
 > Backround/definitions: CloudTrail tracks/records activity in an AWS Account. This can help aide risk auditing, governance and compliance within AWS accounts. There are three types of events that can be logged in CloudTrail: management events, data events, and CloudTrail Insights events.
 >* Management events - Configuring security, Registering devices , Configuring rules, Setting up logging
-> Data events
-> CloudTrail Insights events
-> Create trails for various types of events using AWS CloudTrail and deliver log files to an S3 Bucket.
+>* Data events - Data events provide information about the resource operations performed on or in a resource.
+>* CloudTrail Insights events - CloudTrail Insights events capture unusual API call rate or error rate activity in your AWS account by analyzing CloudTrail management activity. For example, associated API, error code, incident time, and statistics, that help you understand and act on unusual activity
 
 
 # 3. AWS CloudTrail: Athena and CloudWatch Alerts
