@@ -141,7 +141,13 @@ Created trails for various types of events using AWS CloudTrail and deliver log 
 
 <img src="pics/CT 3.png">
 
-* Created a Data Event Trail. P.S - Insights events will only work with management events.
+* Created a Data Event Trail and set data event type as “DynamoDB”. You can determine the request that was made to
+DynamoDB, the IP address from which the request was made, who made the request, when it
+was made, and additional details.
+
+<img src="pics/CT 4.png">
+
+<img src="pics/CT 5.png">
 
 # 3. AWS CloudTrail: Athena and CloudWatch Alerts
 
