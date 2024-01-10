@@ -3,9 +3,6 @@
 > Objective: 
 >* 1. GuardDuty: Cloud Watch
 >* 2. AWS CloudTrail: Creating Trail
->* 3. AWS CloudTrail: Athena and CloudWatch Alerts
->* 4. Amazon Machie
-
 
 
 # 1. GuardDuty: Cloud Watch
