@@ -153,17 +153,5 @@ was made, and additional details.
 
 <img src="pics/CT 5.png">
 
-* Exploring Logs
 
 
-
-# 3. AWS CloudTrail: Athena and CloudWatch Alerts
-
-
-> Process the data with Amazon Athena and configure AWS CloudWatch alerts for CloudTrail events.
-
-
-
-# 4. Amazon Macie 
-
-> Setting up a job in Amazon Macie to discover sensitive information within a S3 bucket.
